@@ -1,1 +1,0 @@
-"adds 'and' between elements when given a 2-element array
